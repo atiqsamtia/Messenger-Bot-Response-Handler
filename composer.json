@@ -1,7 +1,7 @@
 {
     "name": "atiqsamtia/messenger-bot-response",
     "description": "Messenger Bot Response Handler",
-    "include" : {
+    "autoload" : {
         "psr-4": { "Response\\": "" }
     }
 }
