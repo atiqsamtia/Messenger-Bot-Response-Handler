@@ -7,6 +7,11 @@
             "email": "atiq@falconspk.net"
         }
     ],
+    "version": "dev-master",
+    "dist": {
+        "url": "https://github.com/atiqsamtia/Messenger-Bot-Response-Handler/archive/master.zip",
+        "type": "zip"
+    },
     "require": {},
     "include" : {
         "psr-4": { "Reponse\\": "" }

@@ -1,0 +1,7 @@
+{
+  "packages": {
+    "atiqsamtia/messenger-bot-response": {
+      "dev-master": { @composer.json }
+   }
+  }
+}
