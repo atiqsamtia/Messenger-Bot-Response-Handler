@@ -1,17 +1,6 @@
 {
     "name": "atiqsamtia/messenger-bot-response",
     "description": "Messenger Bot Response Handler",
-    "authors": [
-        {
-            "name": "Atiq Samtia",
-            "email": "atiq@falconspk.net"
-        }
-    ],
-    "version": "dev-master",
-    "dist": {
-        "url": "https://github.com/atiqsamtia/Messenger-Bot-Response-Handler/archive/master.zip",
-        "type": "zip"
-    },
     "include" : {
         "psr-4": { "Response\\": "" }
     }
