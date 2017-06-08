@@ -1,0 +1,17 @@
+{
+    "name": "atiqsamtia/messenger-bot-response",
+    "description": "Messenger Bot Response Handler",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Atiq Samtia",
+            "email": "atiq@falconspk.net"
+        }
+    ],
+    "require": {},
+    "include" : {
+        "psr-4": {
+            "Response\\" : ""
+        }
+    }
+}
