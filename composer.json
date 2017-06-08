@@ -1,8 +1,6 @@
 {
     "name": "atiqsamtia/messenger-bot-response",
     "description": "Messenger Bot Response Handler",
-    "type": "package",
-    "version": "1.0",
     "authors": [
         {
             "name": "Atiq Samtia",
