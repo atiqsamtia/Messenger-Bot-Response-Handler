@@ -2,6 +2,7 @@
     "name": "atiqsamtia/messenger-bot-response",
     "description": "Messenger Bot Response Handler",
     "type": "library",
+    "version": "1.0",
     "authors": [
         {
             "name": "Atiq Samtia",
@@ -10,6 +11,6 @@
     ],
     "require": {},
     "include" : {
-        "psr-4": { "Vendor\\Response\\": "" }
+        "psr-4": { "Reponse\\": "" }
     }
 }
