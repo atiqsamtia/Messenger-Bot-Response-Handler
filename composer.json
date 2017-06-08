@@ -12,8 +12,7 @@
         "url": "https://github.com/atiqsamtia/Messenger-Bot-Response-Handler/archive/master.zip",
         "type": "zip"
     },
-    "require": {},
     "include" : {
-        "psr-4": { "Reponse\\": "" }
+        "psr-4": { "Response\\": "" }
     }
 }
