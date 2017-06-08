@@ -10,8 +10,6 @@
     ],
     "require": {},
     "include" : {
-        "psr-4": {
-            "Response\\" : ""
-        }
+        "psr-4": { "Vendor\\Response\\": "" }
     }
 }
