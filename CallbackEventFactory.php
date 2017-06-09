@@ -31,6 +31,12 @@ class CallbackEventFactory
     }
 
     public static function create_new(){
+
+        if(isset($_GET['hub.challenge'])){
+            echo $_GET['hub.challenge'];
+            exit();
+        }
+
         return self::create(self::getData());
     }
 
